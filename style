@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Classes to Take</title>
+    </head>
+    
+    <body style="background-color:green">
+        <h1 style="font-size:36px">Classes to Take</h1>
+        <b><i><ul>
+            <li style="color:brown">Math</li>
+            <li style="color:brown">Science</li>
+            <li style="color:brown">English</li>
+            <li style="color:brown">Social Studies</li>
+            <li style="color:brown">Spanish</li>
+        </ul></i></b>
+    </body>
+</html>
